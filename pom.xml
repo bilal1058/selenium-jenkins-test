@@ -39,7 +39,6 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
-
         <!-- WebDriverManager (auto-downloads ChromeDriver) -->
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
